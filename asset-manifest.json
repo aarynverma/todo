@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/http//:aarynverma.github.io/todolistapp/static/css/main.148c063b.chunk.css",
-    "main.js": "/http//:aarynverma.github.io/todolistapp/static/js/main.928efb9d.chunk.js",
-    "main.js.map": "/http//:aarynverma.github.io/todolistapp/static/js/main.928efb9d.chunk.js.map",
-    "runtime-main.js": "/http//:aarynverma.github.io/todolistapp/static/js/runtime-main.6bc85bde.js",
-    "runtime-main.js.map": "/http//:aarynverma.github.io/todolistapp/static/js/runtime-main.6bc85bde.js.map",
-    "static/js/2.e8adcde5.chunk.js": "/http//:aarynverma.github.io/todolistapp/static/js/2.e8adcde5.chunk.js",
-    "static/js/2.e8adcde5.chunk.js.map": "/http//:aarynverma.github.io/todolistapp/static/js/2.e8adcde5.chunk.js.map",
-    "index.html": "/http//:aarynverma.github.io/todolistapp/index.html",
-    "precache-manifest.9e5efcfb40619948da2d44b1216d22c0.js": "/http//:aarynverma.github.io/todolistapp/precache-manifest.9e5efcfb40619948da2d44b1216d22c0.js",
-    "service-worker.js": "/http//:aarynverma.github.io/todolistapp/service-worker.js",
-    "static/css/main.148c063b.chunk.css.map": "/http//:aarynverma.github.io/todolistapp/static/css/main.148c063b.chunk.css.map",
-    "static/js/2.e8adcde5.chunk.js.LICENSE.txt": "/http//:aarynverma.github.io/todolistapp/static/js/2.e8adcde5.chunk.js.LICENSE.txt"
+    "main.css": "/http//:aarynverma.github.io/todo/static/css/main.148c063b.chunk.css",
+    "main.js": "/http//:aarynverma.github.io/todo/static/js/main.928efb9d.chunk.js",
+    "main.js.map": "/http//:aarynverma.github.io/todo/static/js/main.928efb9d.chunk.js.map",
+    "runtime-main.js": "/http//:aarynverma.github.io/todo/static/js/runtime-main.135a3212.js",
+    "runtime-main.js.map": "/http//:aarynverma.github.io/todo/static/js/runtime-main.135a3212.js.map",
+    "static/js/2.e8adcde5.chunk.js": "/http//:aarynverma.github.io/todo/static/js/2.e8adcde5.chunk.js",
+    "static/js/2.e8adcde5.chunk.js.map": "/http//:aarynverma.github.io/todo/static/js/2.e8adcde5.chunk.js.map",
+    "index.html": "/http//:aarynverma.github.io/todo/index.html",
+    "precache-manifest.8b5ec12ba29189d3ae225b9f900755b9.js": "/http//:aarynverma.github.io/todo/precache-manifest.8b5ec12ba29189d3ae225b9f900755b9.js",
+    "service-worker.js": "/http//:aarynverma.github.io/todo/service-worker.js",
+    "static/css/main.148c063b.chunk.css.map": "/http//:aarynverma.github.io/todo/static/css/main.148c063b.chunk.css.map",
+    "static/js/2.e8adcde5.chunk.js.LICENSE.txt": "/http//:aarynverma.github.io/todo/static/js/2.e8adcde5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6bc85bde.js",
+    "static/js/runtime-main.135a3212.js",
     "static/js/2.e8adcde5.chunk.js",
     "static/css/main.148c063b.chunk.css",
     "static/js/main.928efb9d.chunk.js"
